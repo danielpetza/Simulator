@@ -1,0 +1,3 @@
+timestamp_sim,event_type,subject,name,x,y,value,extra
+2025-10-20 00:00,sensor,Smart Meter,sm,354,305,0.0,device:v
+2025-10-20 00:00,sensor,PIR,s,285,306,0,per-second-sample

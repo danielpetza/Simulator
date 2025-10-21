@@ -1,0 +1,2 @@
+timestamp_sim,event_type,subject,name,x,y,value,extra
+2025-10-21 00:00,sensor,Switch,sw,229,156,0,per-second-sample

@@ -1,0 +1,68 @@
+timestamp_sim,event_type,subject,name,x,y,value,extra
+2025-10-21 00:00,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:00,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:00,sensor,PIR,pir,79,178,0,per-second-sample
+2025-10-21 00:01,move,user,,189,132,,
+2025-10-21 00:01,sensor,PIR,pir,79,178,1,closest_in_fov
+2025-10-21 00:01,sensor,Switch,sw,228,186,0,sync_with_door:213
+2025-10-21 00:02,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:02,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:02,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:02,move,user,,225,126,,
+2025-10-21 00:02,sensor,PIR,pir,79,178,0,auto-off-prev
+2025-10-21 00:02,sensor,Switch,sw,228,186,0,sync_with_door:213
+2025-10-21 00:02,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:02,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:02,sensor,PIR,pir,79,178,0,per-second-sample
+2025-10-21 00:03,move,user,,257,158,,
+2025-10-21 00:03,sensor,Switch,sw,228,186,0,sync_with_door:213
+2025-10-21 00:03,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:03,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:03,sensor,PIR,pir,79,178,0,per-second-sample
+2025-10-21 00:04,move,user,,232,181,,
+2025-10-21 00:04,sensor,Switch,sw,228,186,0,sync_with_door:213
+2025-10-21 00:05,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:05,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:05,sensor,PIR,pir,79,178,0,per-second-sample
+2025-10-21 00:05,move,user,,214,184,,
+2025-10-21 00:05,sensor,Switch,sw,228,186,1,sync_with_door:213
+2025-10-21 00:05,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:05,sensor,Switch,sw,228,186,1,per-second-sample
+2025-10-21 00:05,sensor,PIR,pir,79,178,0,per-second-sample
+2025-10-21 00:07,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:07,sensor,Switch,sw,228,186,1,per-second-sample
+2025-10-21 00:07,sensor,PIR,pir,79,178,0,per-second-sample
+2025-10-21 00:07,move,user,,209,185,,
+2025-10-21 00:07,sensor,PIR,pir,79,178,1,closest_in_fov
+2025-10-21 00:07,sensor,Switch,sw,228,186,0,sync_with_door:213
+2025-10-21 00:08,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:08,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:08,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:08,move,user,,150,185,,
+2025-10-21 00:08,sensor,PIR,pir,79,178,1,closest_in_fov
+2025-10-21 00:08,sensor,Switch,sw,228,186,0,sync_with_door:213
+2025-10-21 00:09,sensor,Smart Meter,sm,151,180,0.0,device:ff
+2025-10-21 00:09,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:09,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:09,move,user,,148,161,,
+2025-10-21 00:09,sensor,PIR,pir,79,178,1,closest_in_fov
+2025-10-21 00:09,device,Washing_Machine,ff,146,159,1,user_toggle_at_click
+2025-10-21 00:09,sensor,Switch,sw,228,186,0,sync_with_door:213
+2025-10-21 00:09,sensor,Smart Meter,sm,151,180,3.0,device:ff
+2025-10-21 00:09,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:09,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:10,sensor,Smart Meter,sm,151,180,3.0,device:ff
+2025-10-21 00:10,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:10,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:12,sensor,Smart Meter,sm,151,180,3.0,device:ff
+2025-10-21 00:12,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:12,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:13,sensor,Smart Meter,sm,151,180,3.0,device:ff
+2025-10-21 00:13,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:13,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:14,sensor,Smart Meter,sm,151,180,3.0,device:ff
+2025-10-21 00:14,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:14,sensor,PIR,pir,79,178,1,per-second-sample
+2025-10-21 00:15,sensor,Smart Meter,sm,151,180,3.0,device:ff
+2025-10-21 00:15,sensor,Switch,sw,228,186,0,per-second-sample
+2025-10-21 00:15,sensor,PIR,pir,79,178,1,per-second-sample
