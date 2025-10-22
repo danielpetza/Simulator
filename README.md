@@ -10,4 +10,4 @@ python version 3.12.2
 ...
 
 ## Project Structure
-Simulator/
+- activity.py
