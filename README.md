@@ -37,6 +37,6 @@ The simulated activities exhibit realistic temporal and contextual patterns, clo
 > `pip install <library-name>`
 
 ## License
-boh
+
 
 ## Author
