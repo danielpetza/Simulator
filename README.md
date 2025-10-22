@@ -11,10 +11,10 @@ python version 3.12.2
 
 ## Project Structure
 Simulator/
-|- Simulatore/
-| |- activity.py
-| |- automatic.py
-| |- common.py
-| |- consumption_profiles.py
-| |- device.py
-| |- door.py
+├─ Simulatore/
+| ├─ activity.py
+| ├─ automatic.py
+| ├─ common.py
+| ├─ consumption_profiles.py
+| ├─ device.py
+| ├─ door.py
