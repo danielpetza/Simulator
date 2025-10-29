@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 from tkinter import ttk
+
 from utils import draw_sensor, calculate_distance, update_sensor_color
 from common import sensor_states
 from device import devices
