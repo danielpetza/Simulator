@@ -38,7 +38,7 @@ The simulated activities exhibit realistic temporal and contextual patterns, clo
 
 
 ## Contribution and Feedback
-We welcome your involvement in making the Simulator even better!
+We welcome your involvement in making the SmartHome HAR Simulator even better!
 
 If you use the platform and have additional ideas, suggestions, or wish to develop new features or functionalities, please don't hesitate to contact us. We are open to collaboration and appreciate any feedback that helps us improve the project.
 
